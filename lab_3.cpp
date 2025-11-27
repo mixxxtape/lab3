@@ -1,3 +1,5 @@
+//Mishyna Daryna K-24 variant 10
+
 #include <iostream>
 #include <syncstream>
 #include <sstream>
@@ -93,4 +95,5 @@ int main() {
 
     std::cout << "Computation finished." << std::endl;
     return 0;
+
 }
